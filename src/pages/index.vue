@@ -1,7 +1,8 @@
+<script setup lang="ts">
+import RocketList from '@/components/RocketList.vue'
+</script>
+
 <template>
-  <HelloWorld />
+  <RocketList />
 </template>
 
-<script lang="ts" setup>
-  //
-</script>
